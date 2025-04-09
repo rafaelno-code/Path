@@ -4,6 +4,7 @@ import java.io.*;
 class Path {
     
     public static HashMap<Character, ArrayList<Character>> map;
+    
     public static void main(String[] args) {
         if(args.length == 0) {
             System.out.print("No file entered");
