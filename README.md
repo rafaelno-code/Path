@@ -1,4 +1,4 @@
-# Shortest Path Java Application
+# Path
 
 ## Overview
 
